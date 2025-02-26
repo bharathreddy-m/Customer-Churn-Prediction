@@ -179,14 +179,24 @@ weighted avg       0.89      0.89      0.89      2993
 ## Conclusion
 In this project, several models were implemented to predict customer churn. The Random Forest model performed the best, achieving an accuracy of 87.80% on the testing set. This indicates that the model can effectively identify customers likely to churn, enabling targeted retention strategies.
 
+## Future Work
+Future iterations may explore the following:
+- **Hyperparameter Tuning:** Implement advanced techniques like Grid Search and Random Search for model optimization.
+- **Feature Engineering:** Investigate new features or transformations to enhance model accuracy.
+- **Deployment:** Develop a web application or API to enable real-time predictions using the best-performing model.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for details.
+
+## Acknowledgments
+The Ames Housing dataset is provided by Kaggle. Thanks to the contributors of libraries used in this project, including Pandas, NumPy, and Scikit-learn.
+
 ## Requirements
-To run this project, the following Python libraries are required:
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-- shap
+To run this project, install the required packages listed in [requirements.txt](requirements.txt) file
+
+## Contributing
+We welcome contributions to this project! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
+
 
 You can install these packages using pip:
 ```bash
