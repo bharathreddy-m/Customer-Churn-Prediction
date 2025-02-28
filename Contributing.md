@@ -48,4 +48,4 @@ Thank you for your interest in contributing to the customer churn Prediction pro
 
 ## Thank You!
 
-We appreciate your contributions to this project! Together, we can improve and enhance the House Price Prediction project.
+We appreciate your contributions to this project! Together, we can improve and enhance the customer churn Prediction project.
