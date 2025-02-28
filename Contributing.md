@@ -1,6 +1,6 @@
-# Contributing to House Price Prediction Project
+# Contributing to Customer churn prediction Project
 
-Thank you for your interest in contributing to the House Price Prediction project! We welcome contributions from everyone. Here are some guidelines to help you get started.
+Thank you for your interest in contributing to the customer churn Prediction project! We welcome contributions from everyone. Here are some guidelines to help you get started.
 
 ## How to Contribute
 
